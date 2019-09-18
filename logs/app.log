@@ -1,0 +1,10 @@
+2019.09.02 at 16:09:33 AEST INFO  saul.controller.DictionaryServer 33 main - Dictionary server has been started, waiting for connection...
+2019.09.02 at 16:09:48 AEST INFO  saul.dao.DictionaryDao 13 <init> - the dictionary file loaded in server successfully.
+2019.09.02 at 16:09:48 AEST INFO  saul.service.DictionaryService 17 <init> - dictionary service has been initialized.
+2019.09.02 at 16:09:48 AEST INFO  saul.controller.DictionaryServer 37 main - connected with client:localhost
+2019.09.02 at 16:10:07 AEST INFO  saul.controller.UserThread 102 store - the dictionary has been updated to disk.
+2019.09.02 at 16:10:14 AEST INFO  saul.controller.UserThread 102 store - the dictionary has been updated to disk.
+2019.09.02 at 16:53:36 AEST INFO  saul.controller.DictionaryServer 33 main - Dictionary server has been started, waiting for connection...
+2019.09.02 at 17:25:01 AEST INFO  saul.dao.DictionaryDao 13 <init> - the dictionary file loaded in server successfully.
+2019.09.02 at 17:25:01 AEST INFO  saul.service.DictionaryService 17 <init> - dictionary service has been initialized.
+2019.09.02 at 17:25:01 AEST INFO  saul.controller.DictionaryServer 37 main - connected with client:localhost
